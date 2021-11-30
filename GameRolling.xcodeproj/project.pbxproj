@@ -11,6 +11,7 @@
 		8442355426CABC5400220B3E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8442355326CABC5400220B3E /* ContentView.swift */; };
 		8442355626CABC5A00220B3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8442355526CABC5A00220B3E /* Assets.xcassets */; };
 		8442355926CABC5A00220B3E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8442355826CABC5A00220B3E /* Preview Assets.xcassets */; };
+		84FA1DD526CCCC5800D5E553 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FA1DD426CCCC5800D5E553 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		8442355526CABC5A00220B3E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8442355826CABC5A00220B3E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8442355A26CABC5A00220B3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84FA1DD426CCCC5800D5E553 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				8442355126CABC5400220B3E /* GameRollingApp.swift */,
 				8442355326CABC5400220B3E /* ContentView.swift */,
+				84FA1DD426CCCC5800D5E553 /* CardView.swift */,
 				8442355526CABC5A00220B3E /* Assets.xcassets */,
 				8442355A26CABC5A00220B3E /* Info.plist */,
 				8442355726CABC5A00220B3E /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8442355426CABC5400220B3E /* ContentView.swift in Sources */,
+				84FA1DD526CCCC5800D5E553 /* CardView.swift in Sources */,
 				8442355226CABC5400220B3E /* GameRollingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
